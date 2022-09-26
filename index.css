@@ -1,0 +1,73 @@
+body { background-color:palegreen;}
+
+.titulo{
+	width: 1228px;
+	height: 100px;
+	margin-left: 150px;
+	margin-top: 50px;
+	background: lightblue;}
+	
+.titulop{
+    padding-top: 10px;
+    padding-left: 525px;}
+
+.caja {
+	width: 300px;
+	height: 200px;
+	background: white;
+	margin: 10px;
+	margin-left: 150px;
+	margin-top: 150px;
+	display: inline-block;
+	float: center;
+}
+
+#laos 
+.franja1 {width: 300px;
+height: 50px;
+background-color: #CE1126;}
+
+.franja2 {width: 300px;
+height: 100px;
+background-color: #002868;}
+
+.franja3 {width: 300px;
+height: 50px;
+background-color: #CE1126;}
+
+
+.simb1 {
+	height: 80px;
+	width: 80px;
+	position: absolute;
+	margin-top: 14px;
+	margin-left: 115px;
+	}
+
+#madagascar
+.franja4 {width: 200px;
+height: 100px;
+background-color: #FC3D32;
+margin-left: 100px;}
+.franja5 {width: 200px;
+height: 100px;
+background-color: #007E3A;
+margin-left: 100px;}
+
+#japon 
+.franja6 {width: 300px;
+	height: 200px;
+	background-color: white;}
+
+.simb2 {
+	height: 120px;
+	width: 120px;
+	position: absolute;
+	margin-left: 90px;
+	margin-top: -157px;
+}	
+
+
+a{ color: black;
+height: 10px; }
+a:hover {color: #007E3A;} 
